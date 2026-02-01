@@ -1,2 +1,7 @@
 # 🛠️ cloud-architecture-projects
-Modular cloud infrastructure projects built with Terraform and AWS, featuring serverless applications, IAM best practices, infrastructure automation, and production-oriented designs suitable for CI/CD and security-focused environments.
+Modular cloud infrastructure projects 
+- Built with Terraform and AWS
+- Serverless application workflows
+- IAM best practices
+- Infrastructure automation
+- Production-oriented designs suitable for CI/CD and security-focused environments.
