@@ -1,5 +1,5 @@
 # 🛠️ cloud-architecture-projects
-Modular cloud infrastructure projects 
+Modular ☁️ cloud infrastructure projects 
 - Built with Terraform and AWS
 - Serverless application workflows
 - IAM best practices
