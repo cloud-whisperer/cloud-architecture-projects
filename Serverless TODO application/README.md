@@ -7,7 +7,7 @@ Part I<br>
 <br><br>Part II<br>  
 ![Alt Text](Terraform_WATERMARK_lc_Part_II_lc.jpg)
 <br><br>Part III<br>  
-![Alt Text](900x500_III_Terraform_S3_WATERMARK_lc.jpg) 
+![Alt Text](Terraform_WATERMARK_lc_Part_III_lc.jpg) 
  
 ---
 
