@@ -3,7 +3,7 @@
 📝 *Secure Serverless CRUD Application Using AWS Lambda, DynamoDB, and Terraform (IaC)*
 
 Part I<br>  
-![Alt Text](900x500_Terraform_Lambda_WAF_WATERMARK_lc.jpg)
+![Alt Text](Terraform_WATERMARK_lc_Part_I_lc.jpg)
 <br><br>Part II<br>  
 ![Alt Text](900x500_Terraform_WATERMARK_lc.jpg)
 <br><br>Part III<br>  
