@@ -14,7 +14,7 @@ The script provides a menu-driven interface to validate **internet connectivity*
 Designed as a hands-on learning project, it showcases **practical Bash scripting fundamentals**, Linux networking concepts, and foundational security awareness—making it well-suited for early-career cloud, systems, and security roles.
 
 Part I<br>
-![Alt Text](800x500_1.jpg)
+![Alt Text](NHC_lc_WATERMARK_lc.jpg)
 
 ---
 
