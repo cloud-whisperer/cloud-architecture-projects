@@ -16,7 +16,7 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 <br>- Network automation
 <br>- Secure cloud ingestion**<br>
 <br>The components used in this project reflected real-world DevSecOps best practices and demonstrated hands-on experience with:
-<br>- **multi-tool security orchestration
+<br>- **Multi-tool security orchestration
 <br>- CLI workflows
 <br>- Cloud storage integration**
 <br>The workflow reinforced a strong focus on **data integrity and observability**.
@@ -86,19 +86,10 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 
 - 🛡️ **Shift-left security validation** using Checkov before deployment  
 - ✅ Structured **security event normalization** for consistency  
-- 🔐 Secure interaction with cloud services via **authenticated AWS CLI**  
+- 🔐 Network automation using AWs SDK (boto3) 
 - 🧾 Emphasis on **audit-ready and traceable data outputs**  
 - 🧠 Clear mapping of raw findings → actionable security records  
 - 🧩 Modular pipeline architecture aligned with **DevSecOps best practices**  
-
----
-
-## 🧹 Clean-Up Checklist
-
-- 🧼 Remove temporary JSON artifacts if not required  
-- ☁️ Verify S3 object storage and lifecycle policies  
-- 🔐 Ensure no sensitive data is stored in outputs  
-- 📁 Organize output files into structured directories  
 
 ---
 
