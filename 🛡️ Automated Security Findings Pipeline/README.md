@@ -43,8 +43,8 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 |----------|-------------|
 | 🛡️ Checkov Scanner | Performed pre-deployment IaC security checks (shift-left validation) |
 | 🛡️ tfsec Scanner | Performed Terraform static analysis for misconfigurations |
-| 🧠 jq Transformation Engine | Normalized and restructured raw security findings |
-| 🔄 PowerShell CLI Layer | Orchestrates scanning, transformation, and automation |
+| 🧠 jq Transformation Engine | Normalised and restructured raw security findings |
+| 🔄 PowerShell CLI Layer | Orchestrated scanning, transformation, and metwork automation |
 | 📄 Cleaned JSON Output | Stores structured, normalized security events |
 | ☁️ Amazon S3 Bucket | Hosts processed security artifacts for persistence |
 | 🔐 AWS CLI | Handles authenticated upload and interaction with S3 |
