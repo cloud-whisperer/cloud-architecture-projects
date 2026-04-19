@@ -18,11 +18,11 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 
 - 🛡️ **Scanned IaC configurations (pre-deployment)** using Checkov  
 - 🔍 **Performed static security analysis (post-scan)** using tfsec
-- 🔄 **Parse and extract security findings** from scan results in JSON
-- 🧠 **Normalize security data** using `jq` transformations  
-- 🧩 **Map findings into structured security events** (rule_id, severity, status)  
-- 📦 **Aggregate multi-tool findings into a unified format**  
-- ☁️ **Upload processed results to cloud storage (S3)**  
+- 🔄 **Parsed and extracted security findings** from scan results in JSON
+- 🧠 **Normalised security data** using `jq` transformations  
+- 🧩 **Mapped findings into structured security events** (rule_id, severity, status)  
+- 📦 **Aggregated multi-tool findings into a unified format**  
+- ☁️ **Uploaded processed results to cloud storage (S3)**  
 - 🔐 **Validate secure API interactions** via AWS CLI  
 - 📡 **Enable downstream consumption** for analytics and compliance systems  
 
