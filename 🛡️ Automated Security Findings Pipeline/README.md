@@ -48,13 +48,13 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 | 📄 Cleaned JSON Output | Stored structured, normalized security events |
 | ☁️ Amazon S3 Bucket | Stored and processed security artifacts for persistence |
 | 🔐 AWS CLI | Authenticated upload and interactions with S3 |
-| 📡 S3 API Endpoint | Enables secure ingestion and storage of security data |
+| 📡 S3 API Endpoint | Enabled secure ingestion and storage of security data |
 
 ---
 
 ## 🧪 Testing & Validation
 
-### ✅ Summary Table (Mit Ikons)
+### ✅ Summary Table
 
 | 🔢 Step | Goal | Tool / Command |
 |-------|------|----------------|
