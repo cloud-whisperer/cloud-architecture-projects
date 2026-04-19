@@ -15,7 +15,7 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 <br>- Data transformation
 <br>- Network automation
 <br>- Secure cloud ingestion**<br>
-<br>The components used in this project reflected real-world DevSecOps best practices. The project demonstrated hands-on experience with:
+<br>The components used in this project reflected real-world DevSecOps best practices and demonstrated hands-on experience with:
 <br>- **multi-tool security orchestration
 <br>- CLI workflows
 <br>- Cloud storage integration**
