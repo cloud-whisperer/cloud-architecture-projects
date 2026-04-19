@@ -17,9 +17,8 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 ## 🚀 Key Steps Simulated in This Project
 
 - 🛡️ **Scanned IaC configurations (pre-deployment)** using Checkov  
-- 🔍 **Performed static security analysis (post-scan)** using tfsec  
-- 📄 **Generate raw JSON outputs** from both tools  
-- 🔄 **Parse and extract security findings** from scan results  
+- 🔍 **Performed static security analysis (post-scan)** using tfsec
+- 🔄 **Parse and extract security findings** from scan results in JSON
 - 🧠 **Normalize security data** using `jq` transformations  
 - 🧩 **Map findings into structured security events** (rule_id, severity, status)  
 - 📦 **Aggregate multi-tool findings into a unified format**  
