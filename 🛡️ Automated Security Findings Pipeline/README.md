@@ -45,9 +45,9 @@ Built within a Windows-based PowerShell environment, the solution emphasized:
 | 🛡️ tfsec Scanner | Performed Terraform static analysis for misconfigurations |
 | 🧠 jq Transformation Engine | Normalised and restructured raw security findings |
 | 🔄 PowerShell CLI Layer | Orchestrated scanning, transformation, and metwork automation |
-| 📄 Cleaned JSON Output | Stores structured, normalized security events |
-| ☁️ Amazon S3 Bucket | Hosts processed security artifacts for persistence |
-| 🔐 AWS CLI | Handles authenticated upload and interaction with S3 |
+| 📄 Cleaned JSON Output | Stored structured, normalized security events |
+| ☁️ Amazon S3 Bucket | Stored and processed security artifacts for persistence |
+| 🔐 AWS CLI | Authenticated upload and interactions with S3 |
 | 📡 S3 API Endpoint | Enables secure ingestion and storage of security data |
 
 ---
