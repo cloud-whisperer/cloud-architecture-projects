@@ -10,7 +10,16 @@ This project implemented a **cloud-native security data processing pipeline** de
 
 The pipeline incorporated both **preventative scanning (Checkov)** and **post-scan analysis (tfsec)** to ensure misconfigurations were identified **before and after deployment stages**. Raw outputs were normalised into structured JSON records, enabling **consistent security visibility**, **compliance tracking**, and **integration with downstream cloud services**.
 
-Built within a Windows-based PowerShell environment, the solution emphasized **shift-left security, data transformation, automation, and secure cloud ingestion**, reflecting real-world DevSecOps practices. The project demonstrated hands-on experience with **multi-tool security orchestration, CLI workflows, and cloud storage integration**, while reinforcing a strong focus on **data integrity and observability**.
+Built within a Windows-based PowerShell environment, the solution emphasized:
+<br>- **Shift-left security
+<br>- Data transformation
+<br>- Network automation
+<br>- Secure cloud ingestion**
+<br>The components used in this project reflected real-world DevSecOps best practices. The project demonstrated hands-on experience with:
+<br>- **multi-tool security orchestration
+<br>- CLI workflows
+<br>- Cloud storage integration**
+<br>The workflow reinforced a strong focus on **data integrity and observability**.
 
 ---
 
