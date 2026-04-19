@@ -51,11 +51,11 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 | 🔢 Step | Goal | Tool / Command |
 |-------|------|----------------|
 | 1️⃣ | Run pre-deployment security scan | `checkov -d . --output json` |
-| 2️⃣ | Generate Terraform findings | `tfsec --format json` |
-| 3️⃣ | Validate raw JSON structure | `jq . tfsec_output.json` |
-| 4️⃣ | Transform & normalize data | `jq '[.results[] | {...}]'` |
-| 5️⃣ | Validate cleaned JSON output | `ConvertFrom-Json` |
-| 6️⃣ | Upload to cloud storage | `aws s3 cp cleaned.json` |
+| 2️⃣ | Generated Terraform findings | `tfsec --format json` |
+| 3️⃣ | Validated raw JSON structure | `jq . tfsec_output.json` |
+| 4️⃣ | Transformed & normalised data | `jq '[.results[] | {...}]'` |
+| 5️⃣ | Validated cleaned JSON output | `ConvertFrom-Json` |
+| 6️⃣ | Uploaded to cloud storage | `aws s3 cp cleaned.json` |
 
 ---
 
