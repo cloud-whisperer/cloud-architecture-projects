@@ -23,8 +23,8 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 - 🧩 **Mapped findings into structured security events** (rule_id, severity, status)  
 - 📦 **Aggregated multi-tool findings into a unified format**  
 - ☁️ **Uploaded processed results to cloud storage (S3)**  
-- 🔐 **Validate secure API interactions** via AWS CLI  
-- 📡 **Enable downstream consumption** for analytics and compliance systems  
+- 🔐 **Validated secure API interactions** via AWS CLI  
+- 📡 **Enabled downstream consumption** for analytics and compliance systems  
 
 ---
 
@@ -49,7 +49,7 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 
 | 🔢 Step | Goal | Tool / Command |
 |-------|------|----------------|
-| 1️⃣ | Run pre-deployment security scan | `checkov -d . --output json` |
+| 1️⃣ | Completed pre-deployment security scan | `checkov -d . --output json` |
 | 2️⃣ | Generated Terraform findings | `tfsec --format json` |
 | 3️⃣ | Validated raw JSON structure | `jq . tfsec_output.json` |
 | 4️⃣ | Transformed & normalised data | `jq '[.results[] | {...}]'` |
