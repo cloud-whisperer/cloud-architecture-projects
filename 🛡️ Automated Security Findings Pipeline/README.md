@@ -8,7 +8,7 @@
 
 This project implemented a **cloud-native security data processing pipeline** designed to ingest and process **Infrastructure-as-Code (IaC) scan results** from multiple security tools and transform them into **standardized, audit-ready security events**.
 
-The pipeline incorporated both **preventative scanning (Checkov)** and **post-scan analysis (tfsec)** to ensure misconfigurations were identified **before and after deployment stages**. Raw outputs were normalized into structured JSON records, enabling **consistent security visibility**, **compliance tracking**, and **integration with downstream cloud services**.
+The pipeline incorporated both **preventative scanning (Checkov)** and **post-scan analysis (tfsec)** to ensure misconfigurations were identified **before and after deployment stages**. Raw outputs were normalised into structured JSON records, enabling **consistent security visibility**, **compliance tracking**, and **integration with downstream cloud services**.
 
 Built within a Windows-based PowerShell environment, the solution emphasized **shift-left security, data transformation, automation, and secure cloud ingestion**, reflecting real-world DevSecOps practices. The project demonstrated hands-on experience with **multi-tool security orchestration, CLI workflows, and cloud storage integration**, while reinforcing a strong focus on **data integrity and observability**.
 
@@ -16,8 +16,8 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 
 ## 🚀 Key Steps Simulated in This Project
 
-- 🛡️ **Scan IaC configurations (pre-deployment)** using Checkov  
-- 🔍 **Perform static security analysis (post-scan)** using tfsec  
+- 🛡️ **Scanned IaC configurations (pre-deployment)** using Checkov  
+- 🔍 **Performed static security analysis (post-scan)** using tfsec  
 - 📄 **Generate raw JSON outputs** from both tools  
 - 🔄 **Parse and extract security findings** from scan results  
 - 🧠 **Normalize security data** using `jq` transformations  
