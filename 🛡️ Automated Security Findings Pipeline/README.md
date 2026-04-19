@@ -85,18 +85,6 @@ Built within a Windows-based PowerShell environment, the solution emphasized **s
 
 ---
 
-### 🎯 Security & Career Value
-
-| Benefit | Description |
-|--------|-------------|
-| 🛡️ | Demonstrates shift-left and runtime IaC security practices |
-| 🧠 | Shows multi-tool security data correlation and normalization |
-| 🔐 | Highlights secure integration with AWS services |
-| ⚙️ | Reflects real-world DevSecOps pipeline design |
-| 💼 | Strong portfolio project for security engineering and architecture roles |
-
----
-
 ## 🧹 Clean-Up Checklist
 
 - 🧼 Remove temporary JSON artifacts if not required  
