@@ -67,7 +67,7 @@ The pipeline incorporated both **preventative scanning (Checkov)** and **post-sc
 
 ---
 
-### 🧠 Behavior Confirmations
+### 🧠 Behaviour Confirmations
 
 | 🔍 Verification Item | 📌 Status | 🧾 Evidence |
 |---------------------|-----------|-------------|
@@ -87,7 +87,7 @@ The pipeline incorporated both **preventative scanning (Checkov)** and **post-sc
 - 🛡️ **Shift-left security validation** using checkov before deployment  
 - ✅ Structured **security event normalization** for consistency  
 - 🔐 Network automation using AWS SDK (boto3) 
-- 🧾 Strong emphasis on **log integrity, centralised visibility, and actionable threat detection &nbsp;&nbsp;signals**
+- 🧾  **Log integrity. Centralised visibility. Actionable threat detection &nbsp;&nbsp;signals.**
 - 🧠 Clear mapping of raw findings → actionable security records  
 - 🧩 Modular pipeline architecture aligned with **DevSecOps best practices**  
 
