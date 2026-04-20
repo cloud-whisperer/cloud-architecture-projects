@@ -84,9 +84,9 @@ The pipeline incorporated both **preventative scanning (Checkov)** and **post-sc
 
 ### 🔐 What Was Implemented
 
-- 🛡️ **Shift-left security validation** using Checkov before deployment  
+- 🛡️ **Shift-left security validation** using checkov before deployment  
 - ✅ Structured **security event normalization** for consistency  
-- 🔐 Network automation using AWs SDK (boto3) 
+- 🔐 Network automation using AWS SDK (boto3) 
 - 🧾 Strong emphasis on **log integrity, centralised visibility, and actionable threat detection &nbsp;&nbsp;signals  
 - 🧠 Clear mapping of raw findings → actionable security records  
 - 🧩 Modular pipeline architecture aligned with **DevSecOps best practices**  
