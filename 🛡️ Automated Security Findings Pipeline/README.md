@@ -6,15 +6,15 @@
 
 ## 📌 Project Description
 
-This project implemented a **cloud-native security data processing pipeline** designed to ingest and process **Infrastructure-as-Code (IaC) scan results** from multiple security tools and transform them into **standardized, audit-ready security events**.
+This project implemented a **cloud-native security data processing pipeline** designed to ingest and process **Infrastructure-as-Code (IaC) scan results** from multiple security tools and transform them into **standardised, audit-ready security events**.
 
 The pipeline incorporated both **preventative scanning (Checkov)** and **post-scan analysis (tfsec)** to ensure misconfigurations were identified **before and after deployment stages**. Raw outputs were normalised into structured JSON records, enabling **consistent security visibility**, **compliance tracking**, and **integration with downstream cloud services**.
 
-Built within a Windows-based PowerShell environment, the solution emphasized:
-<br>- **Shift-left security
+**Built within a Windows-based PowerShell environment, the solution emphasized:**
+<br>- Shift-left security
 <br>- Data transformation
 <br>- Network automation
-<br>- Secure cloud ingestion**<br>
+<br>- Secure cloud ingestion<br>
 <br>The components used in this project reflected real-world DevSecOps best practices and demonstrated hands-on experience with:
 <br>- **Multi-tool security orchestration
 <br>- CLI workflows
