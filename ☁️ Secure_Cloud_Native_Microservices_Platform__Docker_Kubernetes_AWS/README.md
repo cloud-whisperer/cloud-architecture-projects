@@ -134,9 +134,11 @@ The project is designed as a practical learning environment for **cloud infrastr
         │
         ▼
 🧪 Local Testing
-
+```
 ---
-Containerisation
+
+## Containerisation
+<br>
 🐍 Flask
    │
    ▼
