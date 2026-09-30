@@ -139,15 +139,7 @@ The project is designed as a practical learning environment for **cloud infrastr
 
 ### Phase II - Containerisation
 <br>
-```text
-🐍 Flask Application
-        │
-        ▼
-🖥️ Windows / Python
-        │
-        ▼
-🧪 Local Testing
-```
+
 ```text
 🐍 Flask<br> 
       │
