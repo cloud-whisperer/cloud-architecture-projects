@@ -141,18 +141,18 @@ The project is designed as a practical learning environment for **cloud infrastr
 <br>
 
 ```text
-🐍 Flask<br> 
+🐍 Flask
       │
       ▼
- 📄 requirements.txt <br> 
+ 📄 requirements.txt 
       │
       ▼
- 🐳 Dockerfile <br>
+ 🐳 Dockerfile 
       │
       ▼
- 📦 dva-backend:1.0 <br>
+ 📦 dva-backend:1.0 
       │
       ▼
- 🐳 Docker Container <br>
+ 🐳 Docker Container 
 ```
 
