@@ -140,8 +140,8 @@ The project is designed as a practical learning environment for **cloud infrastr
 ## Containerisation
 <br>
 🐍 Flask
-<br>&nbsp;  │
-<br>&nbsp;   ▼
+<br>&nbsp;&nbsp;  │
+<br>&nbsp;&nbsp;   ▼
 <br> 📄 requirements.txt
 <br>  │
 <br>   ▼
