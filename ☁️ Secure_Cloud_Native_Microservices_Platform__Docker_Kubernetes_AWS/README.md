@@ -140,15 +140,14 @@ The project is designed as a practical learning environment for **cloud infrastr
 ## Containerisation
 <br>
 🐍 Flask
-   │
-   ▼
-📄 requirements.txt
-   │
-   ▼
-🐳 Dockerfile
-   │
-   ▼
-📦 dva-backend:1.0
-   │
-   ▼
-🐳 Docker Container
+<br>   │
+<br>   ▼
+<br> 📄 requirements.txt
+<br>  │
+<br>   ▼
+<br> 🐳 Dockerfile <br>  │
+<br>  ▼
+<br> 📦 dva-backend:1.0
+<br>   │
+<br>   ▼
+<br> 🐳 Docker Container
