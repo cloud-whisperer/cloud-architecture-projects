@@ -137,16 +137,17 @@ The project is designed as a practical learning environment for **cloud infrastr
 ```
 ---
 
-## Containerisation
+### Phase II - Containerisation
 <br>
 🐍 Flask
 <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; │
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ▼
 <br> 📄 requirements.txt
-<br>  │
-<br>   ▼
-<br> 🐳 Dockerfile <br>  │
-<br>  ▼
+<br> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; │
+<br> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ▼
+<br> 🐳 Dockerfile 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │
+<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  ▼
 <br> 📦 dva-backend:1.0
 <br>   │
 <br>   ▼
