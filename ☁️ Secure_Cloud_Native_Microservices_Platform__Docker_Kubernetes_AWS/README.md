@@ -134,3 +134,19 @@ The project is designed as a practical learning environment for **cloud infrastr
         │
         ▼
 🧪 Local Testing
+
+---
+Containerisation
+🐍 Flask
+   │
+   ▼
+📄 requirements.txt
+   │
+   ▼
+🐳 Dockerfile
+   │
+   ▼
+📦 dva-backend:1.0
+   │
+   ▼
+🐳 Docker Container
