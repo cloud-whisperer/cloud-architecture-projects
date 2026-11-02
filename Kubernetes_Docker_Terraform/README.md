@@ -95,26 +95,6 @@ Designed as a hands-on local lab without ongoing AWS infrastructure costs, this 
 
 ---
 
-## 🧠 Behavior Confirmations
-
-| 🔍 Verification Item | 📌 Status | 🧾 Evidence |
-|---|---|---|
-| Flask API runs locally | ✅ Confirmed | Docker container running |
-| MySQL connectivity established | ✅ Confirmed | Successful PyMySQL connection |
-| API readiness endpoint works | ✅ Confirmed | `/ready` returns `ready` |
-| REST API creates tasks | ✅ Confirmed | HTTP POST returned task ID |
-| REST API retrieves tasks | ✅ Confirmed | HTTP GET returned task |
-| Docker API image built | ✅ Confirmed | `local-task-api:2.0` |
-| Minikube image availability | ✅ Confirmed | Image verified in Minikube |
-| Kubernetes MySQL Deployment | ⏳ In progress | Deployment and Pod validation |
-| Kubernetes persistent storage | ⏳ Pending | PVC status `Bound` |
-| Kubernetes API Deployment | ⏳ Pending | Pod status `Running` / `Ready` |
-| Kubernetes service connectivity | ⏳ Pending | Internal API-to-MySQL communication |
-| Kubernetes health probes | ⏳ Pending | Readiness and liveness validation |
-| Terraform automation | ⏳ Planned | Local infrastructure provisioning |
-
----
-
 ## 🛡️ Security Controls & Design Principles
 
 ### 🔐 Security Implementation Objectives
