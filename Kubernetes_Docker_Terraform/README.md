@@ -28,7 +28,6 @@ The focus is on **containerization, microservices architecture, service discover
 
 Designed as a hands-on local lab without ongoing AWS infrastructure costs, this project reinforces **cloud-native application development, container orchestration, DevSecOps practices, and Infrastructure as Code (IaC)**.
 
-It is suitable for technical interview preparation and demonstrates practical skills relevant to **Cloud Engineering, DevOps, Infrastructure Engineering, AWS Developer (DVA-C02), and Cloud Security** roles.
 
 ---
 
